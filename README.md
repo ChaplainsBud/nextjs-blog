@@ -15,3 +15,7 @@ git commit -m "note on iss53"
 *What is commit amending?
 
 git checkout master
+
+git push -u origin <branch>
+
+// -u is short for --set-upstream
