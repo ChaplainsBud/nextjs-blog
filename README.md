@@ -7,6 +7,10 @@ or
 git branch iss53
 git checkout iss53
 
+git add .
+git commit -m "note on iss53"
+[can't git push?? no upstream branch]
+
 *What is stashing?
 *What is commit amending?
 
